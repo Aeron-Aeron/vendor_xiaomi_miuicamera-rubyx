@@ -95,6 +95,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
 	name: "vendor.mediatek.hardware.camera.isphal@1.0_miuicamera",
+	stem: "vendor.mediatek.hardware.camera.isphal@1.0",
 	owner: "xiaomi",
 	strip: {
 		none: true,
